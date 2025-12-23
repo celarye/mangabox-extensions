@@ -1,0 +1,113 @@
+{
+  "buildTime": "2025-12-23T19:00:42.528Z",
+  "builtWith": {
+    "toolchain": "1.0.0-alpha.57",
+    "types": "1.0.0-alpha.57"
+  },
+  "repository": {
+    "name": "MangaBox Extensions (0.9)",
+    "description": "Paperback extensions for websites which use the generic MangaBox theme. Maintained by Inkdex."
+  },
+  "sources": [
+    {
+      "name": "MangaBatCOM",
+      "description": "Extension that pulls content from mangabat.com.",
+      "version": "1.0.0-alpha.2",
+      "icon": "icon.png",
+      "language": "🇬🇧",
+      "contentRating": "SAFE",
+      "badges": [],
+      "capabilities": 117,
+      "developers": [
+        {
+          "name": "Netsky",
+          "github": "https://github.com/TheNetsky"
+        },
+        {
+          "name": "Saw_6"
+        }
+      ],
+      "id": "MangaBatCOM"
+    },
+    {
+      "name": "MangaKakalotGG",
+      "description": "Extension that pulls content from mangakakalot.gg.",
+      "version": "1.0.0-alpha.2",
+      "icon": "icon.png",
+      "language": "🇬🇧",
+      "contentRating": "SAFE",
+      "badges": [],
+      "capabilities": 117,
+      "developers": [
+        {
+          "name": "Netsky",
+          "github": "https://github.com/TheNetsky"
+        },
+        {
+          "name": "Saw_6"
+        }
+      ],
+      "id": "MangaKakalotGG"
+    },
+    {
+      "name": "MangaNatoGG",
+      "description": "Extension that pulls content from manganato.gg.",
+      "version": "1.0.0-alpha.2",
+      "icon": "icon.png",
+      "language": "🇬🇧",
+      "contentRating": "SAFE",
+      "badges": [],
+      "capabilities": 117,
+      "developers": [
+        {
+          "name": "Netsky",
+          "github": "https://github.com/TheNetsky"
+        },
+        {
+          "name": "Saw_6"
+        }
+      ],
+      "id": "MangaNatoGG"
+    },
+    {
+      "name": "NatoMangaCOM",
+      "description": "Extension that pulls content from natomanga.com.",
+      "version": "1.0.0-alpha.2",
+      "icon": "icon.png",
+      "language": "🇬🇧",
+      "contentRating": "SAFE",
+      "badges": [],
+      "capabilities": 117,
+      "developers": [
+        {
+          "name": "Netsky",
+          "github": "https://github.com/TheNetsky"
+        },
+        {
+          "name": "Saw_6"
+        }
+      ],
+      "id": "NatoMangaCOM"
+    },
+    {
+      "name": "NeloMangaNET",
+      "description": "Extension that pulls content from nelomanga.net.",
+      "version": "1.0.0-alpha.2",
+      "icon": "icon.png",
+      "language": "🇬🇧",
+      "contentRating": "SAFE",
+      "badges": [],
+      "capabilities": 117,
+      "developers": [
+        {
+          "name": "Netsky",
+          "github": "https://github.com/TheNetsky"
+        },
+        {
+          "name": "Saw_6"
+        }
+      ],
+      "id": "NeloMangaNET"
+    }
+  ]
+}
